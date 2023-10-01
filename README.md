@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing in python, java and c++
 - 🌱 I’m currently trying to learn c++ and java
 - 💞️ I’m looking to collaborate on c++ and java
-- 📫 How to reach me - here
+- 📫 How to reach me - here, discord: mira_5078
 email (not yet), twitter (haven't created yet)
 
 <!---
