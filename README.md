@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miras3210
-- 👀 I’m interested in programing in python, java and c++
+- 👀 I’m interested in programing in python, C#, java and c++
 - 🌱 I’m currently trying to learn c++ and java
 - 💞️ I’m looking to collaborate on c++ and java
 <<<<<<< HEAD
