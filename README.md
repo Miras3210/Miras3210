@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miras3210
-- 👀 I’m interested in programing in python, C#, java and c++
-- 🌱 I’m currently trying to learn c++ and java
-- 💞️ I’m looking to collaborate on c++ and java
+- 👀 I’m currently interested in programing in C
+- 🌱 I’m currently trying to learn c/c++
+- 💞️ I’m looking to collaborate on any interesting projects you have
 <<<<<<< HEAD
 - 📫 How to reach me - here, discord: mira_5078
 =======
